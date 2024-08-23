@@ -1,6 +1,9 @@
 #### Hi there 👋
 **Hola, esto es negrilla **
 
+HOLA
+**HOLA**
+
 *Hola, esto es texto cursivo*
 
 <!--
