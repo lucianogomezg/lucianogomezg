@@ -1,7 +1,7 @@
 #### Hi there 👋
 **Hola, esto es negrilla **
 
-*Hola, esto es texto normal*
+*Hola, esto es texto cursivo*
 
 <!--
 **lucianogomezg/lucianogomezg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
