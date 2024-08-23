@@ -1,5 +1,5 @@
 #### Hi there 👋
-**Hola, esto es negrilla **
+**Hola, esto es negrilla**
 
 #HOLA
 
